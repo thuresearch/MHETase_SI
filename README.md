@@ -1,2 +1,2 @@
 # MHETase_SI
-## Supplement Information of MHETase related papers
+## Supplementary information of MHETase related manuscripts 
